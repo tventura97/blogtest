@@ -3,6 +3,7 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
+  "component---cache-dev-404-page-js": preferDefault(require("/Users/MC/Desktop/MaisyBlogFixed/test-blog/.cache/dev-404-page.js")),
   "component---src-templates-blog-template-js": preferDefault(require("/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/templates/blog-template.js")),
   "component---src-pages-404-js": preferDefault(require("/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/404.js")),
   "component---src-pages-index-js": preferDefault(require("/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/index.js")),
@@ -10,6 +11,8 @@ exports.components = {
 }
 
 exports.json = {
+  "layout-index.json": require("/Users/MC/Desktop/MaisyBlogFixed/test-blog/.cache/json/layout-index.json"),
+  "dev-404-page.json": require("/Users/MC/Desktop/MaisyBlogFixed/test-blog/.cache/json/dev-404-page.json"),
   "layout-index.json": require("/Users/MC/Desktop/MaisyBlogFixed/test-blog/.cache/json/layout-index.json"),
   "another-one.json": require("/Users/MC/Desktop/MaisyBlogFixed/test-blog/.cache/json/another-one.json"),
   "layout-index.json": require("/Users/MC/Desktop/MaisyBlogFixed/test-blog/.cache/json/layout-index.json"),

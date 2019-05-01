@@ -2,6 +2,7 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
+  "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!/Users/MC/Desktop/MaisyBlogFixed/test-blog/.cache/dev-404-page.js"),
   "component---src-templates-blog-template-js": require("gatsby-module-loader?name=component---src-templates-blog-template-js!/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/templates/blog-template.js"),
   "component---src-pages-404-js": require("gatsby-module-loader?name=component---src-pages-404-js!/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/404.js"),
   "component---src-pages-index-js": require("gatsby-module-loader?name=component---src-pages-index-js!/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/index.js"),
@@ -9,6 +10,8 @@ exports.components = {
 }
 
 exports.json = {
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/MC/Desktop/MaisyBlogFixed/test-blog/.cache/json/layout-index.json"),
+  "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/MC/Desktop/MaisyBlogFixed/test-blog/.cache/json/dev-404-page.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/MC/Desktop/MaisyBlogFixed/test-blog/.cache/json/layout-index.json"),
   "another-one.json": require("gatsby-module-loader?name=path---another-one!/Users/MC/Desktop/MaisyBlogFixed/test-blog/.cache/json/another-one.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/MC/Desktop/MaisyBlogFixed/test-blog/.cache/json/layout-index.json"),
