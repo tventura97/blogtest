@@ -1,10 +1,10 @@
 [
     {
-        "componentChunkName": "component---cache-dev-404-page-js",
+        "componentChunkName": "component---src-templates-blog-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "dev-404-page.json",
-        "path": "/dev-404-page/"
+        "jsonName": "another-one.json",
+        "path": "/another-one"
     },
     {
         "componentChunkName": "component---src-templates-blog-template-js",
@@ -12,13 +12,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "hello-world.json",
         "path": "/hello-world"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "another-one.json",
-        "path": "/another-one"
     },
     {
         "componentChunkName": "component---src-pages-404-js",

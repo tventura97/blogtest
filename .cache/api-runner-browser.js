@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
+      plugin: require('/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/gatsby-browser.js'),
+      plugin: require('/Users/MC/Desktop/MaisyBlogFixed/test-blog/gatsby-browser.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks

@@ -1,28 +1,18 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "updatedAt": 1556742426168,
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "014415352a3b41a965145a305e93fd08",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -32,7 +22,7 @@
       "nodeAPIs": [
         "createPagesStatefully"
       ],
-      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -53,13 +43,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "68f10db632bfd5a2ed31d6c25f70dede",
+        "contentDigest": "aecb9d581b60c596fffe2ed0ce114e18",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -69,7 +59,7 @@
       "nodeAPIs": [
         "createLayouts"
       ],
-      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -90,13 +80,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "46ce156893b91d4ec1aa922d6a6a5275",
+        "contentDigest": "ab7584d6028eafefb9801156e0fd24e1",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -107,7 +97,7 @@
         "sourceNodes",
         "onCreatePage"
       ],
-      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -124,13 +114,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ba6ed82a75e1d85617b8d3e34622f4b8",
+        "contentDigest": "e208947247a8d03ec9a6e3e89a26782f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -140,7 +130,7 @@
       "nodeAPIs": [
         "createPages"
       ],
-      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -157,13 +147,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "53aad557cc0e64e697a7431626e12fc7",
+        "contentDigest": "6fa53db396f63a9edf0c0b6e871e57c9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -173,7 +163,7 @@
       "nodeAPIs": [
         "onCreatePage"
       ],
-      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -190,13 +180,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8bff1a0c7dc645ded118de4f50436cb1",
+        "contentDigest": "311ae9b1f328c18abe4d4dd48f36b5cb",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -207,7 +197,7 @@
         "onCreatePage",
         "onCreateLayout"
       ],
-      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -224,13 +214,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5bcf1b482eb8e05c93aa8c0a34554f40",
+        "contentDigest": "91f745d55e08d1178af2fa3d323f737d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "1.0.8",
@@ -238,7 +228,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Stub description for gatsby-plugin-react-helmet",
@@ -278,13 +268,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e0752081c10bb62c24bf12fcac129acd",
+        "contentDigest": "80d25e6b54c78ee561d9155ccf8bc6d9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-catch-links": {
-      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby-plugin-catch-links",
+      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby-plugin-catch-links",
       "id": "Plugin gatsby-plugin-catch-links",
       "name": "gatsby-plugin-catch-links",
       "version": "1.0.14",
@@ -292,7 +282,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby-plugin-catch-links",
+      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby-plugin-catch-links",
       "packageJson": {
         "name": "gatsby-plugin-catch-links",
         "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
@@ -330,25 +320,25 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8b078efde3f63d0632c236d993fada70",
+        "contentDigest": "cf285326a80173486089d58636618421",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-filesystem": {
-      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby-source-filesystem",
+      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby-source-filesystem",
       "id": "Plugin gatsby-source-filesystem",
       "name": "gatsby-source-filesystem",
       "version": "1.5.11",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages",
+        "path": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages",
         "name": "pages"
       },
       "nodeAPIs": [
         "sourceNodes"
       ],
-      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -421,13 +411,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3655bf705b6b225c0fbb1b2f8ae6d74c",
+        "contentDigest": "58d5710c13a464ea888ddbbf43fa9705",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby-transformer-remark",
+      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "1.7.25",
@@ -438,7 +428,7 @@
         "onCreateNode",
         "setFieldsOnGraphQLNodeType"
       ],
-      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -545,13 +535,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8893f4e15dee5523cbb86031fe795acb",
+        "contentDigest": "91ed2236d1be6b8a8766ca74cc915f26",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog",
+      "resolve": "/Users/MC/Desktop/MaisyBlogFixed/test-blog",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "7870bd710a051a9c76dcfe65d6c38215",
@@ -561,7 +551,7 @@
       "nodeAPIs": [
         "createPages"
       ],
-      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog",
+      "pluginFilepath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "Gatsby default starter",
@@ -576,6 +566,10 @@
           {
             "name": "gatsby",
             "version": "^1.9.135"
+          },
+          {
+            "name": "gatsby-cli",
+            "version": "^2.5.12"
           },
           {
             "name": "gatsby-link",
@@ -615,7 +609,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "db558c331a8d71b63131c7c2779d79d5",
+        "contentDigest": "5f5f6aed8dcb05771ca58da182fb6276",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -624,41 +618,39 @@
       "siteMetadata": {
         "title": "Gatsby Default Starter"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-01T20:27:03.373Z",
+      "buildTime": "2019-05-01T21:01:35.947Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "28cda4136dc89a72a2d266d4fa368c43",
+        "contentDigest": "42253cfd55b2699a41c83151bde42c89",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages absPath of file": {
-      "id": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages absPath of file",
+    "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages absPath of file": {
+      "id": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "92184f4801d574969d816ac1b0b9e0e8",
+        "contentDigest": "a296b4ec60cd8c0a27b658b8db4c2287",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages",
+      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages",
       "relativePath": "",
       "extension": "",
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-05-01T20:26:20.590Z",
-      "accessTime": "2019-05-01T20:27:06.001Z",
+      "accessTime": "2019-05-01T21:01:37.628Z",
       "changeTime": "2019-05-01T20:26:20.590Z",
       "birthTime": "2019-05-01T20:26:20.589Z",
       "root": "/",
-      "dir": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src",
+      "dir": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src",
       "base": "pages",
       "ext": "",
       "name": "pages",
@@ -672,36 +664,36 @@
       "blksize": 4096,
       "ino": 27690641,
       "blocks": 0,
-      "atimeMs": 1556742426001.0435,
+      "atimeMs": 1556744497627.9377,
       "mtimeMs": 1556742380590.0469,
       "ctimeMs": 1556742380590.0469,
       "birthtimeMs": 1556742380588.9229,
-      "atime": "2019-05-01T20:27:06.001Z",
+      "atime": "2019-05-01T21:01:37.628Z",
       "mtime": "2019-05-01T20:26:20.590Z",
       "ctime": "2019-05-01T20:26:20.590Z",
       "birthtime": "2019-05-01T20:26:20.589Z"
     },
-    "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started absPath of file": {
-      "id": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started absPath of file",
+    "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started absPath of file": {
+      "id": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "81e1e8c6175748ea9f2ae4e23e3f8be5",
+        "contentDigest": "1051eaa1cb9ad94f37bd497e51b848fc",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started",
+      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started",
       "relativePath": "22–12–2017-getting-started",
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-05-01T20:26:20.589Z",
-      "accessTime": "2019-05-01T20:27:06.004Z",
+      "accessTime": "2019-05-01T21:01:37.631Z",
       "changeTime": "2019-05-01T20:26:20.589Z",
       "birthTime": "2019-05-01T20:26:20.589Z",
       "root": "/",
-      "dir": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages",
+      "dir": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages",
       "base": "22–12–2017-getting-started",
       "ext": "",
       "name": "22–12–2017-getting-started",
@@ -715,36 +707,36 @@
       "blksize": 4096,
       "ino": 27690642,
       "blocks": 0,
-      "atimeMs": 1556742426003.6174,
+      "atimeMs": 1556744497630.835,
       "mtimeMs": 1556742380589.1465,
       "ctimeMs": 1556742380589.1465,
       "birthtimeMs": 1556742380589.0251,
-      "atime": "2019-05-01T20:27:06.004Z",
+      "atime": "2019-05-01T21:01:37.631Z",
       "mtime": "2019-05-01T20:26:20.589Z",
       "ctime": "2019-05-01T20:26:20.589Z",
       "birthtime": "2019-05-01T20:26:20.589Z"
     },
-    "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid absPath of file": {
-      "id": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid absPath of file",
+    "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid absPath of file": {
+      "id": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d49569acd66500919492d7409b69efa0",
+        "contentDigest": "730d79c222267ca775448a5b220a8915",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid",
+      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid",
       "relativePath": "24-12-2017-learning-grid",
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-05-01T20:26:20.590Z",
-      "accessTime": "2019-05-01T20:27:06.004Z",
+      "accessTime": "2019-05-01T21:01:37.631Z",
       "changeTime": "2019-05-01T20:26:20.590Z",
       "birthTime": "2019-05-01T20:26:20.589Z",
       "root": "/",
-      "dir": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages",
+      "dir": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages",
       "base": "24-12-2017-learning-grid",
       "ext": "",
       "name": "24-12-2017-learning-grid",
@@ -758,61 +750,17 @@
       "blksize": 4096,
       "ino": 27690644,
       "blocks": 0,
-      "atimeMs": 1556742426003.6235,
+      "atimeMs": 1556744497630.7654,
       "mtimeMs": 1556742380589.521,
       "ctimeMs": 1556742380589.521,
       "birthtimeMs": 1556742380589.4297,
-      "atime": "2019-05-01T20:27:06.004Z",
+      "atime": "2019-05-01T21:01:37.631Z",
       "mtime": "2019-05-01T20:26:20.590Z",
       "ctime": "2019-05-01T20:26:20.590Z",
       "birthtime": "2019-05-01T20:26:20.589Z"
     },
-    "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/index.js absPath of file": {
-      "id": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/index.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "16e8a82e5f88724628139d77301d841e",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/index.js",
-      "relativePath": "index.js",
-      "extension": "js",
-      "size": 1089,
-      "prettySize": "1.09 kB",
-      "modifiedTime": "2019-05-01T20:26:20.590Z",
-      "accessTime": "2019-05-01T20:26:20.590Z",
-      "changeTime": "2019-05-01T20:26:20.590Z",
-      "birthTime": "2019-05-01T20:26:20.590Z",
-      "root": "/",
-      "dir": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "",
-      "dev": 16777222,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 27690647,
-      "blocks": 8,
-      "atimeMs": 1556742380589.829,
-      "mtimeMs": 1556742380589.9248,
-      "ctimeMs": 1556742380589.9248,
-      "birthtimeMs": 1556742380589.829,
-      "atime": "2019-05-01T20:26:20.590Z",
-      "mtime": "2019-05-01T20:26:20.590Z",
-      "ctime": "2019-05-01T20:26:20.590Z",
-      "birthtime": "2019-05-01T20:26:20.590Z"
-    },
-    "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/404.js absPath of file": {
-      "id": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/404.js absPath of file",
+    "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/404.js absPath of file": {
+      "id": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/404.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -822,17 +770,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/404.js",
+      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/404.js",
       "relativePath": "404.js",
       "extension": "js",
       "size": 198,
       "prettySize": "198 B",
       "modifiedTime": "2019-05-01T20:26:20.590Z",
-      "accessTime": "2019-05-01T20:26:20.590Z",
+      "accessTime": "2019-05-01T20:41:59.428Z",
       "changeTime": "2019-05-01T20:26:20.590Z",
       "birthTime": "2019-05-01T20:26:20.590Z",
       "root": "/",
-      "dir": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages",
+      "dir": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages",
       "base": "404.js",
       "ext": ".js",
       "name": "404",
@@ -846,17 +794,61 @@
       "blksize": 4096,
       "ino": 27690646,
       "blocks": 8,
-      "atimeMs": 1556742380589.673,
+      "atimeMs": 1556743319428.1833,
       "mtimeMs": 1556742380589.736,
       "ctimeMs": 1556742380589.736,
       "birthtimeMs": 1556742380589.673,
-      "atime": "2019-05-01T20:26:20.590Z",
+      "atime": "2019-05-01T20:41:59.428Z",
       "mtime": "2019-05-01T20:26:20.590Z",
       "ctime": "2019-05-01T20:26:20.590Z",
       "birthtime": "2019-05-01T20:26:20.590Z"
     },
-    "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/page-2.js absPath of file": {
-      "id": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/page-2.js absPath of file",
+    "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/index.js absPath of file": {
+      "id": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "16e8a82e5f88724628139d77301d841e",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 1089,
+      "prettySize": "1.09 kB",
+      "modifiedTime": "2019-05-01T20:26:20.590Z",
+      "accessTime": "2019-05-01T20:41:59.428Z",
+      "changeTime": "2019-05-01T20:26:20.590Z",
+      "birthTime": "2019-05-01T20:26:20.590Z",
+      "root": "/",
+      "dir": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 27690647,
+      "blocks": 8,
+      "atimeMs": 1556743319428.2195,
+      "mtimeMs": 1556742380589.9248,
+      "ctimeMs": 1556742380589.9248,
+      "birthtimeMs": 1556742380589.829,
+      "atime": "2019-05-01T20:41:59.428Z",
+      "mtime": "2019-05-01T20:26:20.590Z",
+      "ctime": "2019-05-01T20:26:20.590Z",
+      "birthtime": "2019-05-01T20:26:20.590Z"
+    },
+    "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/page-2.js absPath of file": {
+      "id": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/page-2.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -866,17 +858,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/page-2.js",
+      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/page-2.js",
       "relativePath": "page-2.js",
       "extension": "js",
       "size": 246,
       "prettySize": "246 B",
       "modifiedTime": "2019-05-01T20:26:20.590Z",
-      "accessTime": "2019-05-01T20:26:20.590Z",
+      "accessTime": "2019-05-01T20:41:59.428Z",
       "changeTime": "2019-05-01T20:26:20.590Z",
       "birthTime": "2019-05-01T20:26:20.590Z",
       "root": "/",
-      "dir": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages",
+      "dir": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages",
       "base": "page-2.js",
       "ext": ".js",
       "name": "page-2",
@@ -890,65 +882,19 @@
       "blksize": 4096,
       "ino": 27690648,
       "blocks": 8,
-      "atimeMs": 1556742380590.0344,
+      "atimeMs": 1556743319428.2651,
       "mtimeMs": 1556742380590.111,
       "ctimeMs": 1556742380590.111,
       "birthtimeMs": 1556742380590.0344,
-      "atime": "2019-05-01T20:26:20.590Z",
+      "atime": "2019-05-01T20:41:59.428Z",
       "mtime": "2019-05-01T20:26:20.590Z",
       "ctime": "2019-05-01T20:26:20.590Z",
       "birthtime": "2019-05-01T20:26:20.590Z"
     },
-    "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started/index.md absPath of file": {
-      "id": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started/index.md absPath of file",
+    "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file": {
+      "id": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file",
       "children": [
-        "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "8837bd605a9840599914010d5478b56e",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started/index.md",
-      "relativePath": "22–12–2017-getting-started/index.md",
-      "extension": "md",
-      "size": 550,
-      "prettySize": "550 B",
-      "modifiedTime": "2019-05-01T20:26:20.589Z",
-      "accessTime": "2019-05-01T20:26:20.589Z",
-      "changeTime": "2019-05-01T20:26:20.589Z",
-      "birthTime": "2019-05-01T20:26:20.589Z",
-      "root": "/",
-      "dir": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "22–12–2017-getting-started",
-      "dev": 16777222,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 27690643,
-      "blocks": 8,
-      "atimeMs": 1556742380589.1355,
-      "mtimeMs": 1556742380589.2104,
-      "ctimeMs": 1556742380589.2104,
-      "birthtimeMs": 1556742380589.1355,
-      "atime": "2019-05-01T20:26:20.589Z",
-      "mtime": "2019-05-01T20:26:20.589Z",
-      "ctime": "2019-05-01T20:26:20.589Z",
-      "birthtime": "2019-05-01T20:26:20.589Z"
-    },
-    "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file": {
-      "id": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file",
-      "children": [
-        "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark"
+        "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -958,17 +904,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md",
+      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid/index.md",
       "relativePath": "24-12-2017-learning-grid/index.md",
       "extension": "md",
       "size": 425,
       "prettySize": "425 B",
       "modifiedTime": "2019-05-01T20:26:20.590Z",
-      "accessTime": "2019-05-01T20:26:20.590Z",
+      "accessTime": "2019-05-01T20:41:59.428Z",
       "changeTime": "2019-05-01T20:26:20.590Z",
       "birthTime": "2019-05-01T20:26:20.590Z",
       "root": "/",
-      "dir": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid",
+      "dir": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -982,38 +928,65 @@
       "blksize": 4096,
       "ino": 27690645,
       "blocks": 8,
-      "atimeMs": 1556742380589.5137,
+      "atimeMs": 1556743319428.1487,
       "mtimeMs": 1556742380589.5803,
       "ctimeMs": 1556742380589.5803,
       "birthtimeMs": 1556742380589.5137,
-      "atime": "2019-05-01T20:26:20.590Z",
+      "atime": "2019-05-01T20:41:59.428Z",
       "mtime": "2019-05-01T20:26:20.590Z",
       "ctime": "2019-05-01T20:26:20.590Z",
       "birthtime": "2019-05-01T20:26:20.590Z"
     },
-    "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started/index.md absPath of file",
+    "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started/index.md absPath of file": {
+      "id": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started/index.md absPath of file",
+      "children": [
+        "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "---\npath: \"/hello-world\"\ndate: \"2017-07-12T17:12:33.962Z\"\ntitle: \"My First Gatsby Post\"\n---\n\nOooooh-weeee, my first blog post!\n\n First post Ipsum is a major key to success. Congratulations, you played yourself. Surround yourself with angels. Celebrate success right, the only way, apple. \n \n The key is to drink coconut, fresh coconut, trust me. Egg whites, turkey sausage, wheat toast, water. Of course they don’t want us to eat our breakfast, so we are going to enjoy our breakfast.\n\n <pre><code>npm install beer --save --in-mouth</code></pre>\n\n\n",
-        "contentDigest": "8ab34fda411f739eae57d8da3375e9ad",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
+        "contentDigest": "8837bd605a9840599914010d5478b56e",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "My First Gatsby Post",
-        "path": "/hello-world",
-        "date": "2017-07-12T17:12:33.962Z",
-        "_PARENT": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started/index.md absPath of file",
-        "parent": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started/index.md absPath of file"
-      },
-      "fileAbsolutePath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started/index.md"
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started/index.md",
+      "relativePath": "22–12–2017-getting-started/index.md",
+      "extension": "md",
+      "size": 550,
+      "prettySize": "550 B",
+      "modifiedTime": "2019-05-01T20:26:20.589Z",
+      "accessTime": "2019-05-01T20:41:59.428Z",
+      "changeTime": "2019-05-01T20:26:20.589Z",
+      "birthTime": "2019-05-01T20:26:20.589Z",
+      "root": "/",
+      "dir": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "22–12–2017-getting-started",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 27690643,
+      "blocks": 8,
+      "atimeMs": 1556743319428.1013,
+      "mtimeMs": 1556742380589.2104,
+      "ctimeMs": 1556742380589.2104,
+      "birthtimeMs": 1556742380589.1355,
+      "atime": "2019-05-01T20:41:59.428Z",
+      "mtime": "2019-05-01T20:26:20.589Z",
+      "ctime": "2019-05-01T20:26:20.589Z",
+      "birthtime": "2019-05-01T20:26:20.589Z"
     },
-    "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark",
+    "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file",
+      "parent": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file",
       "internal": {
         "content": "---\npath: \"/another-one\"\ndate: \"2017-07-12T17:12:33.962Z\"\ntitle: \"My Second Gatsby Post\"\ntags: ['Programming', 'Frontend', 'CSS']\nexcerpt: \"Learn CSS Grid today\"\n---\n\nIn life there will be road blocks but we will over come it. Special cloth alert. Don’t ever play yourself. The key to more success is to get a massage once a week, very important, major key, cloth talk. \n\n\n <pre><code>// some css grid code </code></pre>\n\n\n",
         "contentDigest": "f7d984d3ffc0d81dda6583753add2304",
@@ -1030,50 +1003,69 @@
           "CSS"
         ],
         "excerpt": "Learn CSS Grid today",
-        "_PARENT": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file",
-        "parent": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file"
+        "_PARENT": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file",
+        "parent": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file"
       },
-      "fileAbsolutePath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md"
+      "fileAbsolutePath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid/index.md"
     },
-    "SitePage /hello-world": {
-      "layout": "index",
-      "jsonName": "hello-world.json",
-      "internalComponentName": "ComponentHelloWorld",
-      "path": "/hello-world",
-      "component": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/templates/blog-template.js",
-      "componentChunkName": "component---src-templates-blog-template-js",
-      "context": {},
-      "updatedAt": 1556742426207,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/templates/blog-template.js",
-      "id": "SitePage /hello-world",
-      "parent": "SOURCE",
+    "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started/index.md absPath of file >>> MarkdownRemark",
       "children": [],
+      "parent": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started/index.md absPath of file",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "d5328c83e4e8a0ef0b677289a95fd569",
-        "owner": "internal-data-bridge"
-      }
+        "content": "---\npath: \"/hello-world\"\ndate: \"2017-07-12T17:12:33.962Z\"\ntitle: \"My First Gatsby Post\"\n---\n\nOooooh-weeee, my first blog post!\n\n First post Ipsum is a major key to success. Congratulations, you played yourself. Surround yourself with angels. Celebrate success right, the only way, apple. \n \n The key is to drink coconut, fresh coconut, trust me. Egg whites, turkey sausage, wheat toast, water. Of course they don’t want us to eat our breakfast, so we are going to enjoy our breakfast.\n\n <pre><code>npm install beer --save --in-mouth</code></pre>\n\n\n",
+        "contentDigest": "8ab34fda411f739eae57d8da3375e9ad",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My First Gatsby Post",
+        "path": "/hello-world",
+        "date": "2017-07-12T17:12:33.962Z",
+        "_PARENT": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started/index.md absPath of file",
+        "parent": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started/index.md"
     },
     "SitePage /another-one": {
       "layout": "index",
       "jsonName": "another-one.json",
       "internalComponentName": "ComponentAnotherOne",
       "path": "/another-one",
-      "component": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/templates/blog-template.js",
+      "component": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/templates/blog-template.js",
       "componentChunkName": "component---src-templates-blog-template-js",
       "context": {},
-      "updatedAt": 1556742426208,
+      "updatedAt": 1556744497890,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/templates/blog-template.js",
+      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/templates/blog-template.js",
       "id": "SitePage /another-one",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fd2e66cb3ff758b7db890160d30d28a7",
+        "contentDigest": "56c1b56f6f59b98921fc49b1beb197ce",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello-world": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world",
+      "component": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/templates/blog-template.js",
+      "componentChunkName": "component---src-templates-blog-template-js",
+      "context": {},
+      "updatedAt": 1556744497891,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/templates/blog-template.js",
+      "id": "SitePage /hello-world",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d12c5603633cd09ca83e923415a0d3a4",
         "owner": "internal-data-bridge"
       }
     },
@@ -1082,19 +1074,19 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/404.js",
+      "component": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1556742426215,
+      "updatedAt": 1556744497901,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/404.js",
+      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ddb76be6e3be13ef0e4bb7560a74d32c",
+        "contentDigest": "058933d18bb330b2c2f603ec085371da",
         "owner": "internal-data-bridge"
       }
     },
@@ -1103,19 +1095,19 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/index.js",
+      "component": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1556742426216,
+      "updatedAt": 1556744497902,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/index.js",
+      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8c2fd2d119beb9f3e82c9083eb04c2c2",
+        "contentDigest": "d64c2924adcc1ad8dfc28d1ef316b009",
         "owner": "internal-data-bridge"
       }
     },
@@ -1124,19 +1116,19 @@
       "jsonName": "page-2.json",
       "internalComponentName": "ComponentPage2",
       "path": "/page-2/",
-      "component": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/page-2.js",
+      "component": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1556742426216,
+      "updatedAt": 1556744497904,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/page-2.js",
+      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a3363d55f7b0adcdff7cb2666ee1df33",
+        "contentDigest": "287ef8030f8e6bf82f7268f02fd27c30",
         "owner": "internal-data-bridge"
       }
     },
@@ -1145,40 +1137,37 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/404.js",
+      "component": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1556742426218,
+      "updatedAt": 1556744497907,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/404.js",
+      "componentPath": "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0072b18f1db7b869607e73c08d5b6d35",
+        "contentDigest": "d2f0afed20d884a69142437150f75e13",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "4c4855bbffd97120319fe947acf895e3"
+    "PLUGINS_HASH": "5d185ac2c4b0d66576ed37db4035f6a9"
   },
   "componentDataDependencies": {
     "nodes": {
-      "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/22–12–2017-getting-started/index.md absPath of file >>> MarkdownRemark": [
-        "/hello-world"
-      ],
-      "/Users/MC/Desktop/MaisyBlogFixed/codestack-gatsby-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark": [
+      "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/24-12-2017-learning-grid/index.md absPath of file >>> MarkdownRemark": [
         "/another-one"
+      ],
+      "/Users/MC/Desktop/MaisyBlogFixed/test-blog/src/pages/22–12–2017-getting-started/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world"
       ]
     },
     "connections": {
-      "SitePage": [
-        "/dev-404-page/"
-      ],
       "MarkdownRemark": [
         "/"
       ]
